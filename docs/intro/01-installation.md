@@ -33,7 +33,7 @@ $ ./node_modules/karma/bin/karma start
 ```
 
 ## Commandline Interface
-Typing `./node_modules/karma/bin/karma start` sucks and so you might find it useful to install `karma-cli` globally.
+Typing `./node_modules/karma/bin/karma start` sucks and can actually fail on Windows cmd bash, so you might find it useful to install `karma-cli` globally.
 
 ```bash
 $ npm install -g karma-cli
